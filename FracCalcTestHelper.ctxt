@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FracCalcTestHelper
+comment1.params=answer\ candidate
+comment1.target=boolean\ areFracsEqual(java.lang.String,\ java.lang.String)
+comment2.params=value\ what
+comment2.target=int\ parseValue(java.lang.String,\ int)
+comment3.params=s
+comment3.target=boolean\ isInteger(java.lang.String)
+numComments=4

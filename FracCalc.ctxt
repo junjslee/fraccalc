@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FracCalc
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p\ q
+comment2.target=int\ gcf(int,\ int)
+comment3.params=input
+comment3.target=java.lang.String\ produceAnswer(java.lang.String)
+numComments=4
